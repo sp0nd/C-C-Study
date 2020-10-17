@@ -1,0 +1,3 @@
+﻿  first.c
+C:\Users\직업능력개발훈련 401호_8번\source\repos\기초자료\2.1first\first.c(13,8): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  first.vcxproj -> C:\Users\직업능력개발훈련 401호_8번\source\repos\기초자료\2.1first\Debug\first.exe

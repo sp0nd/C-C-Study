@@ -1,0 +1,4 @@
+C:\Users\직업능력개발훈련 401호_8번\source\repos\first\Debug\first.exe
+C:\Users\직업능력개발훈련 401호_8번\source\repos\first\Debug\first.pdb
+C:\Users\직업능력개발훈련 401호_8번\source\repos\기초자료\2.1first\Debug\first.exe
+C:\Users\직업능력개발훈련 401호_8번\source\repos\기초자료\2.1first\Debug\first.pdb
