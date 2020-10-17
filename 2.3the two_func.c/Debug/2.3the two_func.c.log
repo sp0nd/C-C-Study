@@ -1,0 +1,2 @@
+﻿the two_func.obj : error LNK2019: _Lag_main 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\직업능력개발훈련 401호_8번\source\repos\2.3the two_func.c\Debug\2.3the two_func.c.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
