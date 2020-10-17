@@ -1,0 +1,2 @@
+﻿  programming exercises.c
+C:\Users\직업능력개발훈련 401호_8번\source\repos\5장  Operators, Expressions and Statements\5.11 the post_pre\programming exercises.c(14,10): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
