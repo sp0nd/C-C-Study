@@ -1,0 +1,5 @@
+﻿  the stillbad.c
+C:\Users\직업능력개발훈련 401호_8번\source\repos\2.5 the stillbad\the stillbad.c(10,9): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\직업능력개발훈련 401호_8번\source\repos\2.5 the stillbad\the stillbad.c(10,9): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 3개 필요하지만 0개가 제공되었습니다.
+C:\Users\직업능력개발훈련 401호_8번\source\repos\2.5 the stillbad\the stillbad.c(10,9): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+  2.5 the stillbad.vcxproj -> C:\Users\직업능력개발훈련 401호_8번\source\repos\2.5 the stillbad\Debug\2.5 the stillbad.exe
